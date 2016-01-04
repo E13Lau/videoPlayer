@@ -24,6 +24,26 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>VideoEnergy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>VideoGovernment.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>VideoManufacturing.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>VideoTraffic.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -42,7 +62,27 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>6537A9BF1BDDBFB6005545D4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6537A9DA1BDDBFDA005545D4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>65D5DEA51BD5E3DC0038C688</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>65E596C81BDE07C10084FA5B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>65E596E31BDE099F0084FA5B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

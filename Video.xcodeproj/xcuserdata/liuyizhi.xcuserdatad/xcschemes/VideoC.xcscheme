@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "65F730E21BD4DEC4008972B0"
-               BuildableName = "VideoC.app"
-               BlueprintName = "VideoC"
+               BuildableName = "VideoMedical.app"
+               BlueprintName = "VideoMedical"
                ReferencedContainer = "container:Video.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -53,8 +53,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "65F730E21BD4DEC4008972B0"
-            BuildableName = "VideoC.app"
-            BlueprintName = "VideoC"
+            BuildableName = "VideoMedical.app"
+            BlueprintName = "VideoMedical"
             ReferencedContainer = "container:Video.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -76,8 +76,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "65F730E21BD4DEC4008972B0"
-            BuildableName = "VideoC.app"
-            BlueprintName = "VideoC"
+            BuildableName = "VideoMedical.app"
+            BlueprintName = "VideoMedical"
             ReferencedContainer = "container:Video.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -95,8 +95,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "65F730E21BD4DEC4008972B0"
-            BuildableName = "VideoC.app"
-            BlueprintName = "VideoC"
+            BuildableName = "VideoMedical.app"
+            BlueprintName = "VideoMedical"
             ReferencedContainer = "container:Video.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

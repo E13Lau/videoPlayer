@@ -23,13 +23,13 @@
     {
       "size" : "76x76",
       "idiom" : "ipad",
-      "filename" : "bank-76.png",
+      "filename" : "bank.png",
       "scale" : "1x"
     },
     {
       "size" : "76x76",
       "idiom" : "ipad",
-      "filename" : "bank-77.png",
+      "filename" : "bank-1.png",
       "scale" : "2x"
     }
   ],

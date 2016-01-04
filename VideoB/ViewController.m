@@ -14,7 +14,7 @@
 #import "tools.h"
 
 static NSString * const resourceName = @"零售";
-static NSString * const type = @"mov";
+static NSString * const type = @"m4v";
 
 @interface ViewController () {
     moviePlayer * player;

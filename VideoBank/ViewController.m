@@ -12,7 +12,7 @@
 #import "tools.h"
 
 static NSString * const resourceName = @"银行";
-static NSString * const type = @"mov";
+static NSString * const type = @"m4v";
 
 @interface ViewController () {
     moviePlayer * player;
